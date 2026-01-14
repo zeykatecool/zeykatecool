@@ -1,13 +1,5 @@
 <h2 align="left">Hi..</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeykatecool&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="left"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -21,5 +13,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" height="30" alt="luau logo"  />
   <img width="12" />
 </div>
+
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeykatecool&theme=date_night" height="150" alt="languages graph" align="left"  />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeykatecool&theme=date_night" height="150" alt="languages graph" align="left"  />
+</div>
+
+
 
 
