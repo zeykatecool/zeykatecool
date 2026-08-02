@@ -14,15 +14,6 @@
   <img width="12" />
 </div>
 
-###
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeykatecool&theme=date_night" height="150" alt="languages graph" align="left"  />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeykatecool&theme=date_night" height="150" alt="languages graph" align="left"  />
-</div>
 
 
 
